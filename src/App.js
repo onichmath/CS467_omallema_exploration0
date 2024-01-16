@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello from omallema! This code was autodeployed!
+          This app was deployed by GitHub automatically for omallema!
         </p>
         <a
           className="App-link"
